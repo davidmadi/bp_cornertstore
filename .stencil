@@ -1,0 +1,10 @@
+{
+  "normalStoreUrl": "https://ribon588.mybigcommerce.com",
+  "accessToken": "44mc4628d05j4e7ggchgw24xpypynv0",
+  "port": 3000,
+  "customLayouts": {
+    "product": {
+      "custom-product.html": ["/dempsters-100-whole-grains-12-grain-bread/","/david-madi-digital/"]
+    }
+  }
+}
